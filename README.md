@@ -1,2 +1,2 @@
-# api-practice
-a simple practice problem for learning api's
+# API-practice
+a simple practice problem for learning APIs
